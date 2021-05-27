@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  text-align: center;
+text-shadow: 3px 3px 1px black;
+}
+h2 {
+  color: blue;
+  text-align: center;
+}
+a{
+color: red;
+  text-align: center;
+
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+body {
+  background-color: yellow;
+}

@@ -1,0 +1,26 @@
+html {
+  font-size: 10px; 
+  font-family: "Open Sans", sans-serif;
+}
+h1
+{
+   margin: 0;
+  padding: 20px 0;
+  color: red;
+ 
+}
+
+body {
+  
+  width: 1000px;
+  background-color: orange;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  
+}
+p, li {
+color: yellow;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
